@@ -40,6 +40,17 @@ const projectsData = [
       
       link: "https://github.com/shardool598-jpg/to-do-list",
     }
+    ,
+    {
+      title: "JOY-RUSH Animation Website",
+      image: "/JOYRUSH.png",
+      
+      link: "https://github.com/shardool598-jpg/JOYRUSH",
+    }
+
+
+
+
 
 
 ]
